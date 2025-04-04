@@ -1,2 +1,1 @@
-# blackboxai-1743797896168
-Built by https://www.blackbox.ai
+# Argumented reality furniture application e-commerce
